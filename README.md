@@ -20,6 +20,8 @@ Only does global switches for now.  If you're into Rails 3 or better, get github
 
 If you want to protect with basic auth, set ENV['ROLLOUT_WEB_HTTP_BASIC_AUTH_USER'] and ENV['ROLLOUT_WEB_HTTP_BASIC_AUTH_PASSWORD']
 
+Also, until I add a generator, drop the javascripts/stylesheets folders into your main public/javascripts+stylesheets folders.
+
 Example
 =======
 
